@@ -1,0 +1,88 @@
+LEGITIM:
+ The will of the author of this distribution with regard to its succession.
+
+INTENT:
+ The intent of this document is to serve as a guide (and authority) to PAUSE
+ maintainers as to how to behave around this distribution, especially in times 
+ of dispute, or in times where the primary author cannot be found.
+
+ It aims to codify what is meant by certain PAUSE permissions that are granted,
+ or may be granted in future, in order to avoid any future ambiguity that stems
+ from apparent usage of limited technological features.
+
+ It also aims to serve as a "Mission statement" of sorts for maintainers who
+ may be appointed in absence of a primary author.
+
+APPROACH:
+ The general overarching strategy of this document is to establish increased
+ times for standard take-over and PAUSE-directed changes, while simultaneously
+ creating a much shorter timeline for a short-list of appointed trustees to
+ make decisions, in effect, shifting the ring of authority from PAUSE back to
+ the author of this distribution, and its appointed trustees ( hereafter known
+ as CUSTODIANS ), where PAUSE acting as an authority in itself is only to be at
+ the behest of AUTHORs or CUSTODIANs, and only acting in its own authority in
+ the absence of all of the above, predominantly acting as a facilitator of
+ changes, not a decider, and acting only as a decider when absolutely
+ necessary.
+
+CHANGES:
+ In the foreseeable future that this document is deemed "incomplete" and
+ needing adjustment, only changes published by the primary author are
+ respected.
+
+ In the event the primary author has been been reappointed, changes to this
+ article are not respected until they have held their appointment at least 12
+ months.
+
+ Changes may be enacted in a shorter time than this under urgency, but only
+ with unanimous agreement from all living members listed in CUSTODIANS.
+
+ If all members of the custodians group fall off the planet, public vote should
+ be held by PAUSE admins if acceleration is necessary. ( See PAUSE elections )
+
+DRAFT:
+ This is only a draft concept at this time.
+
+GRANTING OF CO-MAINT:
+ In the event that the primary maintainer cannot be contacted for 3 or months,
+ and there are pressing urgent fixes required, then upon request, anyone listed
+ as a CUSTODIAN who is not already listed in CO-MAINT may be granted CO-MAINT
+ provisionally, as long as they certify that they will hold to the guidelines
+ laid out here for co-maintainers.
+
+ Additionally, members of the CUSTODIAN group can appoint any CPAN author as
+ CO-MAINT as long as 2 or more members of said group approve such appointment,
+ and the appointee certifies they will hold to the co-maintainer guidelines.
+ 
+ All members must be notified of said appointment though, and a spoken
+ dissatisfaction to PAUSE Admins of 2 or more members of this list is sufficient
+ to repeal or block appointment.
+
+ In the event there is a conflict in decisions from the CUSTODIAN group, then
+ PAUSE admins are instructed to favour the outcome which limits the amount of
+ change ( Which would likely err on the side of keeping the CO-MAINT list
+ short )
+
+ In the event that less than 2 members of the CUSTODIAN group can be contacted,
+ **AND** 12 or more months have passed with no contact from primary maintainer
+ or the minimum 2 CUSTODIANS, then any remaining CUSTODIANs have appointment
+ authority, and if there are no CUSTODIANs, then and only then can PAUSE admins
+ delegate to a CPAN author of their choice via public vote. ( See PAUSE
+ elections )
+
+ PAUSE authors must also take responsibility for ensuring the appointee adheres
+ to the co-maintainer guidelines, and take steps to undo damage of appointees
+ who fail to adhere.
+
+SUCCESSION OF FIRST-COME:
+ In the event that the primary maintainer cannot be contacted for 12 or more
+ months, upon request, any CUSTODIAN may be granted FIRST-COME provisionally
+ so long as all other members listed as CUSTODIANS unanimously agree on the
+ appointee.
+
+ If not all custodians can be contacted, then any remaining CUSTODIANs can
+ approve by unanimous agreement after 24 months of no-contact from author.
+
+ If no custodians can be contacted after the 24 month no-contact window, then
+ PAUSE admins can delegate via a public vote ( See PAUSE elections )
+
